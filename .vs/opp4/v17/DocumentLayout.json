@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\backend\\assignment\\c#\\New folder\\oop4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A84F4DD4-5080-46B5-A23C-6C9413137CD7}|opp4.csproj|d:\\backend\\assignment\\c#\\new folder\\oop4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A84F4DD4-5080-46B5-A23C-6C9413137CD7}|opp4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84F4DD4-5080-46B5-A23C-6C9413137CD7}|opp4.csproj|d:\\backend\\assignment\\c#\\new folder\\oop4\\duration .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A84F4DD4-5080-46B5-A23C-6C9413137CD7}|opp4.csproj|solutionrelative:duration .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84F4DD4-5080-46B5-A23C-6C9413137CD7}|opp4.csproj|d:\\backend\\assignment\\c#\\new folder\\oop4\\second_project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A84F4DD4-5080-46B5-A23C-6C9413137CD7}|opp4.csproj|solutionrelative:second_project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84F4DD4-5080-46B5-A23C-6C9413137CD7}|opp4.csproj|d:\\backend\\assignment\\c#\\new folder\\oop4\\3d point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A84F4DD4-5080-46B5-A23C-6C9413137CD7}|opp4.csproj|solutionrelative:3d point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Duration .cs",
+              "DocumentMoniker": "D:\\backend\\assignment\\c#\\New folder\\oop4\\Duration .cs",
+              "RelativeDocumentMoniker": "Duration .cs",
+              "ToolTip": "D:\\backend\\assignment\\c#\\New folder\\oop4\\Duration .cs",
+              "RelativeToolTip": "Duration .cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAIEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T11:45:07.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Second_Project.cs",
+              "DocumentMoniker": "D:\\backend\\assignment\\c#\\New folder\\oop4\\Second_Project.cs",
+              "RelativeDocumentMoniker": "Second_Project.cs",
+              "ToolTip": "D:\\backend\\assignment\\c#\\New folder\\oop4\\Second_Project.cs",
+              "RelativeToolTip": "Second_Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T11:00:33.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "3D Point.cs",
+              "DocumentMoniker": "D:\\backend\\assignment\\c#\\New folder\\oop4\\3D Point.cs",
+              "RelativeDocumentMoniker": "3D Point.cs",
+              "ToolTip": "D:\\backend\\assignment\\c#\\New folder\\oop4\\3D Point.cs",
+              "RelativeToolTip": "3D Point.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwDgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T08:44:23.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\backend\\assignment\\c#\\New folder\\oop4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\backend\\assignment\\c#\\New folder\\oop4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T08:43:20.272Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

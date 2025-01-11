@@ -1,0 +1,14 @@
+D:\backend\assignment\c#\New folder\opp4\bin\Debug\net8.0\opp4.exe
+D:\backend\assignment\c#\New folder\opp4\bin\Debug\net8.0\opp4.deps.json
+D:\backend\assignment\c#\New folder\opp4\bin\Debug\net8.0\opp4.runtimeconfig.json
+D:\backend\assignment\c#\New folder\opp4\bin\Debug\net8.0\opp4.dll
+D:\backend\assignment\c#\New folder\opp4\bin\Debug\net8.0\opp4.pdb
+D:\backend\assignment\c#\New folder\opp4\obj\Debug\net8.0\opp4.GeneratedMSBuildEditorConfig.editorconfig
+D:\backend\assignment\c#\New folder\opp4\obj\Debug\net8.0\opp4.AssemblyInfoInputs.cache
+D:\backend\assignment\c#\New folder\opp4\obj\Debug\net8.0\opp4.AssemblyInfo.cs
+D:\backend\assignment\c#\New folder\opp4\obj\Debug\net8.0\opp4.csproj.CoreCompileInputs.cache
+D:\backend\assignment\c#\New folder\opp4\obj\Debug\net8.0\opp4.dll
+D:\backend\assignment\c#\New folder\opp4\obj\Debug\net8.0\refint\opp4.dll
+D:\backend\assignment\c#\New folder\opp4\obj\Debug\net8.0\opp4.pdb
+D:\backend\assignment\c#\New folder\opp4\obj\Debug\net8.0\opp4.genruntimeconfig.cache
+D:\backend\assignment\c#\New folder\opp4\obj\Debug\net8.0\ref\opp4.dll
